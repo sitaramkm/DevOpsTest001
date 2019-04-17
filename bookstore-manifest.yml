@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
       - name: bookstore
-        image: 082336523630.dkr.ecr.us-east-1.amazonaws.com/bookstore-flogo:latest
+        image: 491237900899.dkr.ecr.us-east-1.amazonaws.com/devops-pipeline:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 9233
